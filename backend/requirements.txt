@@ -1,0 +1,12 @@
+Flask
+requests # to call APIs like NREL and Zippopotam
+mysql-connector-python # to connect to MySQL database
+Flask-Cors # to handle CORS issues
+python-dotenv==0.19.0
+Flask-RESTful # to create RESTful APIs may be used later
+dicttoxml
+flask==2.0.1
+requests==2.26.0
+lxml==4.9.3  # For XML processing
+xmlschema==2.3.1  # For XML validation
+xmltodict==0.13.0  # For XML to Python dict conversion

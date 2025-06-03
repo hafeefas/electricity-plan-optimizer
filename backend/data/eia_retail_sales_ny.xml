@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eia_api>
+    <response>
+        <total>144</total>
+        <dateFormat>YYYY</dateFormat>
+        <frequency>annual</frequency>
+        <data>
+            <row>
+                <row>warning: XML output returns a maximum of 300 rows; use offset= and length= parameters or output to JSON for entire dataset.</row>
+            </row>
+            <row>
+                <period>2023</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2023</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2023</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2023</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2023</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2023</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2022</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2022</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2022</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2022</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2022</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2022</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2024</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2024</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2024</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2024</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2024</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2024</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2015</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2015</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2015</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2015</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2015</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2015</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2005</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2005</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2005</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2005</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2005</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2005</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2021</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2021</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2021</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2021</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2021</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2021</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2009</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2009</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2009</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2006</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2006</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2006</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2006</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2006</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2006</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2009</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2009</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2009</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2011</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2011</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2011</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2011</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2011</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2011</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2003</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2003</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2003</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2003</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2003</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2003</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2004</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2004</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2004</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2004</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2004</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2004</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2007</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2007</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2007</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2007</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2007</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2007</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2001</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2001</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2001</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2001</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2001</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2001</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2008</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2008</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2002</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2002</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2002</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2002</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2002</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2002</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2014</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2014</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2014</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2014</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2014</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2014</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2018</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2018</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2018</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2018</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2018</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2018</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2008</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2008</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2008</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2008</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2017</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2017</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2017</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2017</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2017</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2017</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2020</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2020</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2020</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2020</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2020</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2020</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2013</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2013</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2013</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2013</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2013</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2013</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2012</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2012</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2012</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2012</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2012</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2012</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2019</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2019</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2019</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2019</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2019</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2019</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2010</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2010</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2010</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2010</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2010</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2010</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+            <row>
+                <period>2016</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>ALL</sectorid>
+                <sectorName>all sectors</sectorName>
+            </row>
+            <row>
+                <period>2016</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>COM</sectorid>
+                <sectorName>commercial</sectorName>
+            </row>
+            <row>
+                <period>2016</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>IND</sectorid>
+                <sectorName>industrial</sectorName>
+            </row>
+            <row>
+                <period>2016</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>OTH</sectorid>
+                <sectorName>other</sectorName>
+            </row>
+            <row>
+                <period>2016</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>RES</sectorid>
+                <sectorName>residential</sectorName>
+            </row>
+            <row>
+                <period>2016</period>
+                <stateid>NY</stateid>
+                <stateDescription>New York</stateDescription>
+                <sectorid>TRA</sectorid>
+                <sectorName>transportation</sectorName>
+            </row>
+        </data>
+        <description>Electricity sales to ultimate customer by state and sector (number of customers, average price, revenue, and megawatthours of sales).  
+    Sources: Forms EIA-826, EIA-861, EIA-861M</description>
+    </response>
+    <request>
+        <command>/v2/electricity/retail-sales/data/</command>
+        <params>
+            <api_key>dzu4AHKKfUdBcmeFslSCNmNdz8a4zwlJ1zmZ3Vcl</api_key>
+            <frequency>annual</frequency>
+            <data>value</data>
+            <facets>
+                <stateid>
+                    <row>NY</row>
+                </stateid>
+            </facets>
+            <out>xml</out>
+        </params>
+    </request>
+    <apiVersion>2.1.8</apiVersion>
+    <ExcelAddInVersion>2.1.0</ExcelAddInVersion>
+</eia_api>

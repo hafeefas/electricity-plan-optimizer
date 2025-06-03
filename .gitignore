@@ -1,0 +1,15 @@
+# Hide environment files
+.env
+backend/.env
+
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Docker
+db_data/
+*.log
+
+# VSCode or system files
+.vscode/
+.DS_Store
